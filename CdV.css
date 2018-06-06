@@ -1,0 +1,28 @@
+.ID {
+  text-align: center;
+  margin-top: 85px;
+  margin-left: 75px;
+  margin-bottom: 25px;
+  display: inline-block;
+  font-size: 1.4rem;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  float: left;
+  margin-right: 300px;
+}
+
+.res img{
+  display: block;
+  height: 40px;
+  width: 40px;
+  margin-right: 50px;
+}
+
+.res {
+  margin-left: 660px;
+  margin-top: 30px;
+}
